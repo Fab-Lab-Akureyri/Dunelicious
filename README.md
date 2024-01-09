@@ -39,6 +39,6 @@ Með öðrum straumgjafa lifnaði brettið við og það prófað með G-kóða 
 
 Tókum fræsinn í sundur og röðuðum saman í einfaldari X/Y uppsetningu. 
 
-![Sundurtekt](myndir/board.jpg "Sundurtekt")
+![Sundurtekt](myndir/teardown.jpg "Sundurtekt")
 
 ![Jón ánægður](myndir/jon.jpg "Jón ánægður")
