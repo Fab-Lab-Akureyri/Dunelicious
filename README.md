@@ -16,3 +16,4 @@ Fab Lab Akureyri fékk gefins gamlan CNC ráter. Markmiðið er að breyta honum
 - ~~Redda RPI (3 B+)~~
 - https://learn.adafruit.com/read-only-raspberry-pi/overview < Þegar allt er tilbúið
 - https://www.youtube.com/watch?v=hphhOyAHsHk
+- https://github.com/gnea/grbl/wiki/Using-Grbl#python-streaming-scripts-officially-supported-by-grbl-cross-platform
