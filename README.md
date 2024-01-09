@@ -15,3 +15,4 @@ Fab Lab Akureyri fékk gefins gamlan CNC ráter. Markmiðið er að breyta honum
 - ~~Breyta rammanum, fjarlægja spindilinn~~
 - ~~Redda RPI (3 B+)~~
 - https://learn.adafruit.com/read-only-raspberry-pi/overview < Þegar allt er tilbúið
+- https://www.youtube.com/watch?v=hphhOyAHsHk
