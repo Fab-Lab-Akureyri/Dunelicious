@@ -9,7 +9,7 @@ Fab Lab Akureyri fékk gefins gamlan CNC ráter. Markmiðið er að breyta honum
 
 ## Punktar
 
-- Firmware var 0.9, uppfærði 1.1 (https://github.com/gnea/grbl/wiki/Compiling-Grbl)
-- Vantar mögulega nýtt relay/staumbreyti fyrir borðið, virkar með power supply. (Kominn með nýtt).
+- ~~Firmware var 0.9, uppfæra í1.1 (https://github.com/gnea/grbl/wiki/Compiling-Grbl)~~
+- Vantar mögulega nýtt relay/staumbreyti fyrir borðið, virkar með power supply. (Kominn með nýtt, prófa að skipta því út).
 - Bæta við Limit switches: https://github.com/gnea/grbl/wiki/Wiring-Limit-Switches
-- Breyta rammanum, fjarlægja spindilinn. 
+- ~~Breyta rammanum, fjarlægja spindilinn~~
