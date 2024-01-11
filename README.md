@@ -32,6 +32,7 @@ Markmiðið er að breyta honum í "[sandborð](https://www.youtube.com/watch?v=
 ![Stýring](myndir/board.jpg "Stýringin")
 
 Kom í ljós að líklega er SRD-05VDC-SL-C bilað. Fékk annað, á eftir að skipta því út eða nota annað PSU. 
+___
 
 ![SRD-05VDC-SL-C](myndir/power.jpg "SRD-05VDC-SL-C")
 
@@ -42,3 +43,8 @@ Tókum fræsinn í sundur og röðuðum saman í einfaldari X/Y uppsetningu.
 ![Sundurtekt](myndir/teardown.jpg "Sundurtekt")
 
 ![Jón ánægður](myndir/jon.jpg "Jón ánægður")
+___
+
+Raspberry Pi 3b+ tengd og [þetta prófað](https://github.com/gnea/grbl/wiki/Using-Grbl#python-streaming-scripts-officially-supported-by-grbl-cross-platform). Þurfti að uppfæra skriftuna fyrir Python3. Setti inn prufuskjal sem ```grbl.gcode``` og það keyrði vandræðalaust. 
+
+![Raspberry Pi](myndir/pi.jpg "Raspberry Pi")
