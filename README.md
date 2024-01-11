@@ -20,8 +20,8 @@ Markmiðið er að breyta honum í "[sandborð](https://www.youtube.com/watch?v=
 - ~~Breyta rammanum, fjarlægja spindilinn~~
 - ~~Redda RPI (3 B+)~~
 - https://learn.adafruit.com/read-only-raspberry-pi/overview < Þegar allt er tilbúið
-- https://www.youtube.com/watch?v=hphhOyAHsHk
-- https://github.com/gnea/grbl/wiki/Using-Grbl#python-streaming-scripts-officially-supported-by-grbl-cross-platform
+- ~~https://www.youtube.com/watch?v=hphhOyAHsHk~~
+- ~~https://github.com/gnea/grbl/wiki/Using-Grbl#python-streaming-scripts-officially-supported-by-grbl-cross-platform~~
 
 ## Ferlið
 
