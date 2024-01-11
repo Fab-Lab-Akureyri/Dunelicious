@@ -1,6 +1,6 @@
 # Dunelicious
 
-Dunelicious - Gömlum CNC breytt í sandborð
+Dunelicious - Gömlum CNC breytt í sandborð(zen garden)
 
 **Verk í vinnslu**
 
